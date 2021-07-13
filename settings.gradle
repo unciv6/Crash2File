@@ -1,0 +1,3 @@
+include ':CrashSdk'
+include ':app'
+rootProject.name = "Crash2File"
